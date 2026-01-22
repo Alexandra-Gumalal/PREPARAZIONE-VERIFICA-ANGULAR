@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+/* Cancella quello che hai ora e incolla questo */
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.blue {
+  color: blue;
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+  font-weight: bold;
+}
+
+.yellow {
+  color: #ffcc00;
+  font-weight: bold;
+}
